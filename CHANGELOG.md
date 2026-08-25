@@ -2,6 +2,11 @@
 
 Collapsible history (all drops + era map): **[BUILD_HISTORY.md](BUILD_HISTORY.md)** · where we are going: **[ROADMAP.md](ROADMAP.md)**
 
+## 0.9.284 — 2026-08-25
+
+### Paper Wallets — Single-Line Balance Toggle
+- **Select All With Balance** / **Unselect All With Balance** stay on one line in the header (no wrap padding).
+
 ## 0.9.283 — 2026-08-25
 
 ### Paper Wallets — Unselect All Restored
