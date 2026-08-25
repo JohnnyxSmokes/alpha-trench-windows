@@ -3,12 +3,6 @@
   Packages are distributed through authenticated AlphaTek.App downloads.
 -->
 
-<p align="center">
-  <a href="https://www.AlphaTek.App/alpha-trench">
-    <img src="assets/banner.png" alt="Alpha Trench for Windows — Chrome / Edge" width="100%" />
-  </a>
-</p>
-
 <div align="center">
 
   <h1>Alpha Trench Windows</h1>
@@ -70,6 +64,20 @@ Chrome Web Store listing is in progress. This repository does not contain the de
 | Mac Safari | [alpha-trench-safari](https://github.com/JohnnyxSmokes/alpha-trench-safari) |
 
 Never paste a seed phrase into the extension. Paper first. Mainnet Instant Trade stays locked until armed.
+
+---
+
+## Trench Replay Stack (Web + Extension)
+
+Alpha Tek ships the **most tech-packed replay stack on Solana** — not a chart embed bolt-on.
+
+| Mode | Surface |
+|------|---------|
+| **Market Replay** | Any token on [AlphaTek.App](https://www.alphatek.app) |
+| **Trench Theater** | [alphatek.app/dashboard/alpha-replay](https://www.alphatek.app/dashboard/alpha-replay) — Cast, Forecast, drawings |
+| **Trade Replay** | Alpha Trench extension dashboard (linked wallet) |
+
+Full marketing reference: [TRENCH_REPLAY_STACK.md](https://github.com/JohnnyxSmokes/alpha-trench/blob/main/TRENCH_REPLAY_STACK.md) (on the alpha-trench repo when published).
 
 ---
 
