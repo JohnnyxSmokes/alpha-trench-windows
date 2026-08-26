@@ -5,6 +5,10 @@
 
 <div align="center">
 
+  <a href="https://www.AlphaTek.App/alpha-trench">
+    <img src="assets/banner.png" alt="Alpha Trench Windows — Chrome, Edge, and Brave" width="100%" />
+  </a>
+
   <h1>Alpha Trench Windows</h1>
 
   <p>
@@ -36,7 +40,7 @@
 
 <p align="center">
   <a href="https://www.virustotal.com/gui/file/56863fbf0bcc5c9e9778b6b45239213a36064bd353a56fbdd7cfa62442d8db71">
-    <img src="https://raw.githubusercontent.com/JohnnyxSmokes/ALPHA_NEW2/main/marketing/infographics/alpha-trench-virustotal-2026-08/atvt-01-zero-detections.png" alt="Alpha Trench Windows VirusTotal result — 0 malicious, 0 suspicious, 65 undetected" width="100%" />
+    <img src="assets/virustotal-result.png" alt="Alpha Trench Windows VirusTotal result — 0 malicious, 0 suspicious, 65 undetected" width="100%" />
   </a>
 </p>
 
