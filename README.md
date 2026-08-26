@@ -27,12 +27,24 @@
       <img src="https://img.shields.io/badge/Portal-AlphaTek.App-a855f7?style=for-the-badge&labelColor=0A0A0A" alt="Portal" />
     </a>
     &nbsp;
-    <a href="https://discord.gg/EpicAlpha">
+    <a href="https://discord.gg/epicalpha">
       <img src="https://img.shields.io/badge/Discord-Epic%20Alpha-5865F2?style=for-the-badge&labelColor=0A0A0A&logo=discord&logoColor=white" alt="Discord" />
     </a>
   </p>
 
 </div>
+
+<p align="center">
+  <a href="https://www.virustotal.com/gui/file/56863fbf0bcc5c9e9778b6b45239213a36064bd353a56fbdd7cfa62442d8db71">
+    <img src="https://raw.githubusercontent.com/JohnnyxSmokes/ALPHA_NEW2/main/marketing/infographics/alpha-trench-virustotal-2026-08/atvt-01-zero-detections.png" alt="Alpha Trench Windows VirusTotal result — 0 malicious, 0 suspicious, 65 undetected" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Windows 0.9.310:</strong>
+  <a href="https://www.virustotal.com/gui/file/56863fbf0bcc5c9e9778b6b45239213a36064bd353a56fbdd7cfa62442d8db71">Open the Public VirusTotal Report</a>
+  · 0 malicious · 0 suspicious · 65 undetected
+</p>
 
 ---
 
@@ -67,6 +79,12 @@ Never paste a seed phrase into the extension. Paper first. Mainnet Instant Trade
 
 ---
 
+## Linked Alpha Tek Intelligence
+
+When linked to AlphaTek.App, the Windows client can request source-aware Pump ecosystem context reconciled from PumpPortal WebSocket, Frontend V3 REST, and FluxBeam WebSocket/Moralis fallback. Pump.fun and BONK/Raydium provenance stays labeled and selectable.
+
+---
+
 ## Trench Replay Stack (Web + Extension)
 
 Alpha Tek ships the **most tech-packed replay stack on Solana** — not a chart embed bolt-on.
@@ -88,4 +106,4 @@ Full marketing reference: [TRENCH_REPLAY_STACK.md](https://github.com/JohnnyxSmo
 | **Windows Package** | [AlphaTek.App/alpha-trench](https://www.AlphaTek.App/alpha-trench) |
 | **Safari** | [alpha-trench-safari](https://github.com/JohnnyxSmokes/alpha-trench-safari) |
 | **Portal** | [alphatek.app](https://www.alphatek.app) |
-| **Discord** | [discord.gg/EpicAlpha](https://discord.gg/EpicAlpha) |
+| **Discord** | [discord.gg/epicalpha](https://discord.gg/epicalpha) |
