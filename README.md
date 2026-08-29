@@ -52,6 +52,10 @@
 
 ---
 
+## Hear The Pad
+
+Product VO: [overlay-bumper.mp3](https://github.com/JohnnyxSmokes/alpha-trench/blob/main/assets/overlay-bumper.mp3) · live on [AlphaTek.App/alpha-trench](https://www.AlphaTek.App/alpha-trench)
+
 ## Download Alpha Trench
 
 - **Official Windows Download:** [AlphaTek.App/alpha-trench](https://www.AlphaTek.App/alpha-trench)
